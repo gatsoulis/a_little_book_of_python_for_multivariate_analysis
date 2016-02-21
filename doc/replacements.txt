@@ -1,0 +1,59 @@
+A Little Book of Python for Multivariate Analysis
+=================================================
+A Little Book of Python for Multivariate Analysis
+#################################################
+
+Setting up the python environment
+=================================
+Setting up the python environment
+---------------------------------
+
+Reading Multivariate Analysis Data into Python
+==============================================
+Reading Multivariate Analysis Data into Python
+----------------------------------------------
+
+Plotting Multivariate Data
+==========================
+Plotting Multivariate Data
+--------------------------
+
+Calculating Summary Statistics for Multivariate Data
+====================================================
+Calculating Summary Statistics for Multivariate Data
+----------------------------------------------------
+
+Principal Component Analysis
+============================
+Principal Component Analysis
+----------------------------
+
+Linear Discriminant Analysis
+============================
+Linear Discriminant Analysis
+----------------------------
+
+The Python way
+==============
+The Python way
+~~~~~~~~~~~~~~
+
+Links and Further Reading
+=========================
+Links and Further Reading
+-------------------------
+
+Acknowledgements
+================
+Acknowledgements
+----------------
+
+Contact
+=======
+Contact
+-------
+
+License
+=======
+License
+-------

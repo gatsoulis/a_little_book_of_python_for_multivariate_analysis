@@ -1,0 +1,6 @@
+*.html
+*.bak
+.ipynb_checkpoints/
+~*
+.DS_Store
+_*
